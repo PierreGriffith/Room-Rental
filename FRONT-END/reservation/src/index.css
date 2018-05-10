@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.title-cardz {
+    background-color: #e6e6e6;
+}
+
+.is-close {
+     cursor: pointer;
+    background-color: #c4f0e3;
+}
+
+.is-open {
+    background-color: #eaa5a5;
+}
+
